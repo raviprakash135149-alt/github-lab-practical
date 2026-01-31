@@ -1,0 +1,4 @@
+GitHub branching allows developers to create separate branches to work on new features or fixes.
+It helps keep the main codebase stable while changes are developed independently.
+Branches make collaboration easier by avoiding conflicts in the main branch.
+Once work is complete, branches can be merged back into the main project.
